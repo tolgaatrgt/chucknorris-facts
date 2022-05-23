@@ -75,7 +75,7 @@ const jokesReducer = (state = initialState, action: AnyAction) => {
         searchQuery: null,
         jokeList: []
       }
-    //
+    
     case jokeActionTypes.GET_JOKE_BY_CATEGORY_REQUEST:
       return {
         ...state,
@@ -100,7 +100,6 @@ const jokesReducer = (state = initialState, action: AnyAction) => {
         isPending: false,
         jokeList: []
       }
-
 
     default:
       return state;
