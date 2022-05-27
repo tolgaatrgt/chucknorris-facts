@@ -1,2 +1,2 @@
-export * from './CategoryCard'
-export * from './JokeCategories'
+export * from "./CategoryCard";
+export * from "./JokeCategories";

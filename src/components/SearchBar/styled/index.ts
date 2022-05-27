@@ -1,2 +1,2 @@
-export * from './StyledTextField'
-export * from './StyledSearchIcon'
+export * from "./StyledTextField";
+export * from "./StyledSearchIcon";

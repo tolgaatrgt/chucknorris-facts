@@ -1,2 +1,2 @@
-export * from './CategoryTitle'
-export * from './CategoryStack'
+export * from "./CategoryTitle";
+export * from "./CategoryStack";
